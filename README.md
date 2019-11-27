@@ -3,7 +3,7 @@
 
 ## 示意图
 
-![image](https://github.com/chztp/SwipeLayout/screen/swipeLayout.gif)
+![image](https://github.com/chztp/SwipeLayout/blob/master/screen/swipeLayout.gif)
 
 ## 快速集成 
 ### 混淆配置(proguard-rules)
