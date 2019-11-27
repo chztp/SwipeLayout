@@ -1,6 +1,10 @@
 # SwipeLayout
 # 可滑动布局
 
+## 示意图
+
+![image](https://github.com/chztp/SwipeLayout/screen/swipeLayout.gif)
+
 ## 快速集成 
 ### 混淆配置(proguard-rules)
 + -keep class com.ch.swipelayoutlib.SwipeLayout{*;}
