@@ -22,5 +22,5 @@
 	<!--如果希望一直使用最新版本可以替换 1.0.0 为 master-SNAPSHOT -->
 	dependencies {
 	        ...
-	        compile 'com.ch.swipelayoutlib:SwipeLayout:1.0.0'
+	        compile 'com.github.chztp:SwipeLayout:1.0.0'
 	}
